@@ -1,6 +1,7 @@
 We have the link to the Trello website
 Checkout how we divided the tasks into introduction, todo, doing, testing, and done
-
+We demonstrate Trello using a simple task management app that contains all processes in any project management.
+We divide the project into manageable simpler tasks so that everything is planned and well structured.
 https://trello.com/b/bykg8BaC/project-board-scd
 
 Name                 ID
