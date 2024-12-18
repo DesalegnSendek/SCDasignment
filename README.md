@@ -4,6 +4,7 @@ Checkout how we divided the tasks into introduction, todo, doing, testing, and d
 https://trello.com/b/bykg8BaC/project-board-scd
 
 Name                 ID
+
 Laelay Temesgen      0746/13 
 
 Kirubel Ateka        0734/13 
